@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Nuntu
+title: Lisa
 logo: # You can add own logo. For example '/images/logo.png'.
 description: An impressive portfolio theme for Jekyll
 color_scheme: auto # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
@@ -21,14 +21,14 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Experience'
+      url: '/experience/'
+    - url: '/about/'
+      title: 'About Me'
     - title: 'Resources'
       submenu:
-      - url: '/about/'
-        title: 'About'
+        # - title: 'Blog'
+    #   url: '/blog/'
       - url: '/contact/'
         title: 'Contact'
       - url: '/elements/'
@@ -38,25 +38,25 @@ menu_settings:
 cta_button:
   enable: true
   cta_button_link: '/contact/'
-  cta_button_text: Get in touch
+  cta_button_text: Contact Me
 
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero_intro: Hey, I’m Jesse
-  hero_title: I turning Ideas into Reality on the Fly!
-  hero_description: I'm a passionate product designer, and I thrive on creating intuitive and delightful interactions that shape the future of technology. Join me as we explore the evolving landscape of user experience and how design can seamlessly integrate with the latest technological advancements.
+  hero_intro: Hey, I’m Lisa
+  hero_title: Let me put 20 years of legal experience to work for you.
+  hero_description: Lisa Guerra is a bilingual attorney with nearly 20 years of diverse legal experience across civil litigation, trial practice, and mediation. Licensed in Texas, New York, and Washington, D.C., she has handled cases in employment law, civil rights, business law, immigration, and more, while currently building her expertise in mediation
   hero_images:
     - alt: 'Hobby'
-      url: '/images/hero-1.jpg'
+      url: 'images/IMG_7782.jpg'
     - alt: 'Apartment'
-      url: '/images/hero-2.jpg'
+      url: 'images/IMG_7431.jpg'
     - alt: 'Friends'
-      url: '/images/hero-3.jpg'
+      url: 'images/IMG_7686.jpg'
     - alt: 'Workflow'
-      url: '/images/hero-4.jpg'
+      url: 'images/IMG_7373.jpg'
 
 
 #-------------------------------
@@ -71,7 +71,7 @@ mailchimp__button__text: Subscribe
 # Projects Settings
 projects:
   enable: true
-  projects_title: Works
+  projects_title: Experience
 
 
 #-------------------------------
@@ -184,20 +184,20 @@ tags_section:
 # Gallery Section Settings
 gallery:
   enable: true
-  gallery_title: The Best Moments
+  gallery_title: 
   gallery_images:
     - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
+      url: 'images/CDMX Estadio 3.JPG'
     - alt: 'City'
-      url: '/images/gallery-2.jpg'
+      url: 'images/Pubela 2018 - 4.jpeg'
     - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
+      url: 'images/CDMX estadio 1.JPG'
     - alt: 'Car'
-      url: '/images/gallery-4.jpg'
+      url: 'images/Puebla 2018 - 3.jpeg'
     - alt: 'Hobby'
-      url: '/images/gallery-5.jpg'
+      url: 'images/Puebla Mass Cooking.jpeg'
     - alt: 'Lifestyle'
-      url: '/images/gallery-6.jpg'
+      url: 'images/Puebla 2018 - 1.jpeg'
 
 
 #-------------------------------
