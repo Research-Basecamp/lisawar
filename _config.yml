@@ -28,6 +28,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  experiences:
+    output: true
+    permalink: /experience/:slug
 
 # Pages Path
 defaults:
@@ -50,6 +53,11 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "experiences"
+    values:
+      layout: "experience"
 
 sass:
   sass_dir: _sass
