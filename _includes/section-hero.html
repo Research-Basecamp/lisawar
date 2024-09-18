@@ -15,7 +15,8 @@
           {% if site.data.settings.hero.hero_description %}
             <p class="hero__description">{{ site.data.settings.hero.hero_description }}</p>
           {% endif %}
-          {% if site.data.settings.mailchimp == "enable" %}
+            <!-- This is the email suscribe section in the hero -->
+          <!-- {% if site.data.settings.mailchimp == "enable" %}
           <div class="hero__subscribe">
             <form class="subscribe-form validate" action="{% if site.data.settings.mailchimp__identifier %}//{{site.data.settings.mailchimp__identifier}}{% else %}#{% endif %}"
               method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
@@ -26,7 +27,7 @@
                 name="subscribe">{{ site.data.settings.mailchimp__button__text }}</button>
             </form>
           </div>
-          {% endif %}
+          {% endif %} -->
         </div>
       </div>
 
