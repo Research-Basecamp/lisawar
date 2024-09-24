@@ -1,10 +1,10 @@
 #-------------------------------
 # Site Settings
-title: Lisa
+title: Lisa War
 logo: # You can add own logo. For example '/images/logo.png'.
 description: An impressive portfolio theme for Jekyll
 color_scheme: auto # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
-
+footer_name: Lisa Guerra
 
 #-------------------------------
 # Author Global Settings
@@ -23,16 +23,14 @@ menu_settings:
       url: '/'
     - title: 'Experience'
       url: '/experience/'
-    - url: '/about/'
-      title: 'About Me'
-    - title: 'Resources'
+    - title: 'About Me'
+      url: '/about/'
+    - title: 'Services'
       submenu:
-        # - title: 'Blog'
-    #   url: '/blog/'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      - url: '/immigration/'
+        title: 'Immigration'
+      - url: '/mediation/'
+        title: 'Mediation'
 
 # Call to action button
 cta_button:
@@ -45,7 +43,7 @@ cta_button:
 # Hero Settings
 hero:
   enable: true
-  hero_intro: Hey, I’m Lisa
+  hero_intro: Hi, I’m Lisa
   hero_title: Let me put 20 years of legal experience to work for you.
   hero_description: Lisa Guerra is a bilingual attorney with nearly 20 years of diverse legal experience across civil litigation, trial practice, and mediation. Licensed in Texas, New York, and Washington, D.C., she has handled cases in employment law, civil rights, business law, immigration, and more, while currently building her expertise in mediation
   hero_images:
