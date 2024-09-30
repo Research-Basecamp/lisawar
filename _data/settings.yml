@@ -190,11 +190,10 @@ gallery:
 
 # Social links
 social:
-  - { icon: "fa-brands fa-twitter", link: "https://twitter.com" }
-  - { icon: "fa-brands fa-facebook-f", link: "https://facebook.com" }
-  - { icon: "fa-brands fa-instagram", link: "https://instagram.com" }
-  - { icon: "fa-brands fa-pinterest", link: "https://pinterest.com" }
-  - { icon: "fa-brands fa-dribbble", link: "https://dribbble.com" }
+  - {
+      icon: "fa-brands fa-linkedin-in",
+      link: "https://www.linkedin.com/in/lisawarlaw/",
+    }
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons

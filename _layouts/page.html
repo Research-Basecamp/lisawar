@@ -4,13 +4,34 @@ layout: default
 
 <!-- begin page -->
 <div class="container">
-
   <div class="page-head">
     <div class="page-meta">
-      <h1 class="page-title">{{ page.title | escape }}</h1>
+      <h1 class="page-title">
+        {{ page.title | escape }} {% if page.url == "/about/" %} {% if
+        site.data.settings.social %}
+
+        <div class="social">
+          <ul class="social__list list-reset">
+            {% for social in site.data.settings.social %}
+            <li class="social__item">
+              <a
+                class="social__link"
+                href="{{ social.link }}"
+                target="_blank"
+                rel="noopener"
+                aria-label="Social link"
+              >
+                <span><i class="{{ social.icon }}"></i></span>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+      </h1>
       {% if page.description %}
-        <p class="page-description">{{ page.description }}</p>
-      {% endif %}
+      <p class="page-description">{{ page.description }}</p>
+      {% endif %} {% endif %}
     </div>
   </div>
 
@@ -21,10 +42,7 @@ layout: default
   {% endif %} -->
 
   <article class="page">
-    <div class="page__content">
-      {{ content }}
-    </div>
+    <div class="page__content">{{ content }}</div>
   </article>
-
 </div>
 <!-- end page -->
