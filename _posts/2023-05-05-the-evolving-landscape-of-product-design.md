@@ -3,7 +3,7 @@ layout: post
 title: The Evolving Landscape of Product Design
 description: Design and user experience are critical factors in creating successful interactions with the target audience. Unique and intuitive interfaces, designed with user needs in mind, can leave a positive impression and satisfy their expectations.
 date: 2023-05-05 15:01:35 +0300
-image: '/images/02.jpg'
+image: "/images/02.jpg"
 tags: [workflow, story, games]
 ---
 
@@ -28,7 +28,7 @@ Understanding the interaction between design and branding is a crucial aspect of
 
 > Design is an opportunity to continue telling the story, not just to sum everything up.
 >
-<cite>- Tate Linden</cite>
+> <cite>- Tate Linden</cite>
 
 In this blog, we aim to create a community of designers where everyone can exchange knowledge, experience, and inspiration. Get ready for captivating articles, case studies, and interviews with industry leaders. We invite you to be part of our design community and together create amazing and unique web applications, interfaces, and much more!
 

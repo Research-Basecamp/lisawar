@@ -1,3 +1,4 @@
+---
 #-------------------------------
 # Site Settings
 title: Lisa War
@@ -12,32 +13,26 @@ author:
   author_name: Jesse Parker
   author_role: Product Designer
   author_description: When I'm not a Product Designer, I can often be found cycling through picturesque landscapes, immersing myself in the joy of two-wheeled adventures. Reading books is another passion of mine, as I love delving into captivating stories and exploring new ideas. Beyond these pursuits, I relish engaging in various activities that nurture my creativity and keep me inspired.
-  author_avatar: '/images/01-1.jpg'
-
+  author_avatar: "/images/01-1.jpg"
 
 #-------------------------------
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Experience'
-      url: '/experience/'
-    - title: 'About Me'
-      url: '/about/'
-    - title: 'Services'
-      submenu:
-      - url: '/immigration/'
-        title: 'Immigration'
-      - url: '/mediation/'
-        title: 'Mediation'
+    - title: "Home"
+      url: "/"
+    - title: "Experience"
+      url: "/experience/"
+    - title: "About Me"
+      url: "/about/"
+    - title: "Mediation"
+      url: "/experience/mediation-service-that-make-a-difference"
 
 # Call to action button
 cta_button:
   enable: true
-  cta_button_link: '/contact/'
-  cta_button_text: Contact Me
-
+  cta_button_link: "/contact/"
+  cta_button_text: Free Consulation
 
 #-------------------------------
 # Hero Settings
@@ -47,15 +42,14 @@ hero:
   hero_title: Let me put 20 years of legal experience to work for you.
   hero_description: Lisa Guerra is a bilingual attorney with nearly 20 years of diverse legal experience across civil litigation, trial practice, and mediation. Licensed in Texas, New York, and Washington, D.C., she has handled cases in employment law, civil rights, business law, immigration, and more, while currently building her expertise in mediation
   hero_images:
-    - alt: 'Hobby'
-      url: 'images/IMG_7782.jpg'
-    - alt: 'Apartment'
-      url: 'images/IMG_7431.jpg'
-    - alt: 'Friends'
-      url: 'images/IMG_7686.jpg'
-    - alt: 'Workflow'
-      url: 'images/IMG_7373.jpg'
-
+    - alt: "Hobby"
+      url: "images/IMG_7782.jpg"
+    - alt: "Apartment"
+      url: "images/IMG_7431.jpg"
+    - alt: "Friends"
+      url: "images/IMG_7686.jpg"
+    - alt: "Workflow"
+      url: "images/IMG_7373.jpg"
 
 #-------------------------------
 # Newsletter
@@ -64,13 +58,11 @@ mailchimp__identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97
 mailchimp__input__text: Your email address
 mailchimp__button__text: Subscribe
 
-
 #-------------------------------
 # Projects Settings
 projects:
   enable: true
   projects_title: Experience
-
 
 #-------------------------------
 # Testimonials Section
@@ -82,7 +74,7 @@ testimonials_items:
   - name: "Lucas Parker"
     image: "/images/client-1.jpg"
     designation: "Web Developer"
-    content : "If you're looking for a top-notch product designer, look no further. His ability to merge creativity with functionality is remarkable."
+    content: "If you're looking for a top-notch product designer, look no further. His ability to merge creativity with functionality is remarkable."
     link: "https://twitter.com/"
     icon: "fa-brands fa-twitter"
     icon_color: "#1da1f3"
@@ -90,7 +82,7 @@ testimonials_items:
   - name: "Olivia Williams"
     image: "/images/client-2.jpg"
     designation: "Data Analyst"
-    content : "His attention to every minute detail ensured that our products stand out, capturing the attention of potential customers."
+    content: "His attention to every minute detail ensured that our products stand out, capturing the attention of potential customers."
     link: "https://twitter.com/"
     icon: "fa-brands fa-twitter"
     icon_color: "#1da1f3"
@@ -98,7 +90,7 @@ testimonials_items:
   - name: "Ava Martinez"
     image: "/images/client-3.jpg"
     designation: "Designer"
-    content : "The designer brought fresh ideas and innovative solutions to our project, delivering results that exceeded our expectations."
+    content: "The designer brought fresh ideas and innovative solutions to our project, delivering results that exceeded our expectations."
     link: "https://twitter.com/"
     icon: "fa-brands fa-twitter"
     icon_color: "#1da1f3"
@@ -106,7 +98,7 @@ testimonials_items:
   - name: "Evelyn Turner"
     image: "/images/client-4.jpg"
     designation: "Data Scientist"
-    content : "Exceptional talent! The designer was instrumental in crafting our brand's identity, infusing it with authenticity and personality."
+    content: "Exceptional talent! The designer was instrumental in crafting our brand's identity, infusing it with authenticity and personality."
     link: "https://instagram.com/"
     icon: "fa-brands fa-instagram"
     icon_color: "#e1306c"
@@ -114,7 +106,7 @@ testimonials_items:
   - name: "Oliver Davis"
     image: "/images/client-5.jpg"
     designation: "Software Engineer"
-    content : "Working with the designer was a breath of fresh air! His communication, timeliness, and creative flair were unparalleled."
+    content: "Working with the designer was a breath of fresh air! His communication, timeliness, and creative flair were unparalleled."
     link: "https://facebook.com/"
     icon: "fa-brands fa-facebook-f"
     icon_color: "#1977f3"
@@ -122,7 +114,7 @@ testimonials_items:
   - name: "Isabella Lee"
     image: "/images/client-6.jpg"
     designation: "QA Engineer"
-    content : "His expertise in web design and branding elevated our online presence, attracting more visitors and increasing our conversions."
+    content: "His expertise in web design and branding elevated our online presence, attracting more visitors and increasing our conversions."
     link: "https://twitter.com/"
     icon: "fa-brands fa-twitter"
     icon_color: "#1da1f3"
@@ -130,7 +122,7 @@ testimonials_items:
   - name: "James Wright"
     image: "/images/client-7.jpg"
     designation: "Data Analyst"
-    content : "Jessy brought fresh ideas and innovative solutions to our project, delivering results that exceeded our expectations."
+    content: "Jessy brought fresh ideas and innovative solutions to our project, delivering results that exceeded our expectations."
     link: "https://facebook.com/"
     icon: "fa-brands fa-facebook-f"
     icon_color: "#1977f3"
@@ -138,7 +130,7 @@ testimonials_items:
   - name: "Layla Foster"
     image: "/images/client-8.jpg"
     designation: "CEO"
-    content : "I can't thank Jessy enough for their outstanding UI/UX design services. He took our app's user experience to new heights."
+    content: "I can't thank Jessy enough for their outstanding UI/UX design services. He took our app's user experience to new heights."
     link: "https://twitter.com/"
     icon: "fa-brands fa-twitter"
     icon_color: "#1da1f3"
@@ -146,18 +138,16 @@ testimonials_items:
   - name: "Emily Collins"
     image: "/images/client-9.jpg"
     designation: "DevOps"
-    content : "Simply outstanding! The designer helped us turn our vague concept into a fully functional and visually stunning app."
+    content: "Simply outstanding! The designer helped us turn our vague concept into a fully functional and visually stunning app."
     link: "https://instagram.com/"
     icon: "fa-brands fa-instagram"
     icon_color: "#e1306c"
-
 
 #-------------------------------
 # Blog Section
 blog:
   enable: true
   blog_title: Writing
-
 
 #-------------------------------
 # Author Section Settings
@@ -166,10 +156,9 @@ author_section:
   author_section_role: Product Designer
   author_section_title: What do I say about myself?
   author_section_description: When I'm not a Product Designer, I can often be found cycling through picturesque landscapes, immersing myself in the joy of two-wheeled adventures. Reading books is another passion of mine, as I love delving into captivating stories and exploring new ideas. Beyond these pursuits, I relish engaging in various activities that nurture my creativity and keep me inspired.
-  author_section_image: '/images/01.jpg'
+  author_section_image: "/images/01.jpg"
   author_section_button_text: hey@jesse.site.com
-  author_section_button_link: 'mailto:hey@jesse.site.com'
-
+  author_section_button_link: "mailto:hey@jesse.site.com"
 
 #-------------------------------
 # Tags Section Settings
@@ -177,41 +166,38 @@ tags_section:
   enable: true
   tags_section_title: Explore our topics
 
-
 #-------------------------------
 # Gallery Section Settings
 gallery:
   enable: true
-  gallery_title: 
+  gallery_title:
   gallery_images:
-    - alt: 'Rest'
-      url: 'images/CDMX Estadio 3.JPG'
-    - alt: 'City'
-      url: 'images/Pubela 2018 - 4.jpeg'
-    - alt: 'Hobby'
-      url: 'images/CDMX estadio 1.JPG'
-    - alt: 'Car'
-      url: 'images/Puebla 2018 - 3.jpeg'
-    - alt: 'Hobby'
-      url: 'images/Puebla Mass Cooking.jpeg'
-    - alt: 'Lifestyle'
-      url: 'images/Puebla 2018 - 1.jpeg'
-
+    - alt: "Rest"
+      url: "images/CDMX Estadio 3.JPG"
+    - alt: "City"
+      url: "images/Pubela 2018 - 4.jpeg"
+    - alt: "Hobby"
+      url: "images/CDMX estadio 1.JPG"
+    - alt: "Car"
+      url: "images/Puebla 2018 - 3.jpeg"
+    - alt: "Hobby"
+      url: "images/Puebla Mass Cooking.jpeg"
+    - alt: "Lifestyle"
+      url: "images/Puebla 2018 - 1.jpeg"
 
 #-------------------------------
 # Footer Settings
 
 # Social links
 social:
-- {icon: "fa-brands fa-twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-facebook-f", link: "https://facebook.com"}
-- {icon: "fa-brands fa-instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-pinterest", link: "https://pinterest.com"}
-- {icon: "fa-brands fa-dribbble", link: "https://dribbble.com"}
+  - { icon: "fa-brands fa-twitter", link: "https://twitter.com" }
+  - { icon: "fa-brands fa-facebook-f", link: "https://facebook.com" }
+  - { icon: "fa-brands fa-instagram", link: "https://instagram.com" }
+  - { icon: "fa-brands fa-pinterest", link: "https://pinterest.com" }
+  - { icon: "fa-brands fa-dribbble", link: "https://dribbble.com" }
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
-
 
 #-------------------------------
 # Contact Settings
@@ -222,11 +208,9 @@ contact:
 # NOTE
 # Nuntu theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
-
 #-------------------------------
 # Comment Section (Disqus)
 disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
-
 
 #-------------------------------
 # Google Analytics
