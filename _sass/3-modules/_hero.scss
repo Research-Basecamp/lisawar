@@ -74,79 +74,32 @@
   }
 }
 
-.hero__subscribe {
-  margin-top: 32px;
+/* Add space between the paragraph and the button */
+.hero__cta {
+  margin-top: 24px;
+}
 
-  .subscribe-form {
-    position: relative;
-    background-color: var(--background-color);
-  }
-
-  .subscribe-email {
-    width: 100%;
-    height: 64px;
-    padding: 20px 24px;
-    font-family: $heading-font-family;
-    font-size: 18px;
-    line-height: 24px;
-    border: 1px solid var(--border-color);
-    border-radius: 100px;
-    outline: 0;
-    color: var(--heading-font-color);
-    background: var(--background-alt-color);
-    transition: $global-transition;
-
-    &:focus {
-      background: var(--background-alt-color-2);
-    }
-
-    &::placeholder {
-      color: var(--text-alt-color);
-    }
-  }
-
-  .subscribe-button {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    right: 0;
-    font-size: 20px;
-  }
-
-  @media (max-width: $wide) {
-    .subscribe-email {
-      height: 62px;
-    }
-
-    .subscribe-button {
-      font-size: 18px;
-    }
-  }
-
-  @media (max-width: $desktop) {
-    margin-top: 20px;
-  }
-
-  @media (max-width: $mobile) {
-    .subscribe-form {
-      display: flex;
-      flex-direction: column;
-    }
-
-    .subscribe-email {
-      height: 60px;
-      margin-bottom: 12px;
-      font-size: 16px;
-    }
-
-    .subscribe-button {
-      position: relative;
-      top: 0;
-      transform: translateY(0);
-      right: 0;
-      font-size: 16px;
-    }
-  }
+/* Button Styling */
+.button-34 {
+  background: #5E5DF0;
+  border-radius: 999px;
+  box-shadow: #5E5DF0 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter, Helvetica, "Apple Color Emoji", "Segoe UI Emoji", NotoColorEmoji, "Noto Color Emoji", "Segoe UI Symbol", "Android Emoji", EmojiSymbols, -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
 }
 
 .hero__right {
