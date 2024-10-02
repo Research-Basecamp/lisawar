@@ -25,7 +25,7 @@ menu_settings:
       url: "/experience/"
     - title: "About Me"
       url: "/about/"
-    - title: "Mediation"
+    - title: "Mediation Services"
       url: "/experience/mediation-service-that-make-a-difference"
 
 # Call to action button
@@ -39,8 +39,8 @@ cta_button:
 hero:
   enable: true
   hero_intro: Hi, I’m Lisa
-  hero_title: Let me put 20 years of legal experience to work for you.
-  hero_description: Lisa Guerra is a bilingual attorney with nearly 20 years of diverse legal experience across civil litigation, trial practice, and mediation. Licensed in Texas, New York, and Washington, D.C., she has handled cases in employment law, civil rights, business law, immigration, and more, while currently building her expertise in mediation
+  hero_title: Mediation services that matter, powered by 20 years of legal experience.
+  hero_description: Lisa Guerra brings 20 years of legal experience to her work as a mediator to make sure you get the impartial, principled, and knowledgeable expert you deserve.
   hero_images:
     - alt: "Hobby"
       url: "images/IMG_7782.jpg"
