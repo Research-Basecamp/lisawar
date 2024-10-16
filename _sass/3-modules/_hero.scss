@@ -79,7 +79,6 @@
   margin-top: 24px;
 }
 
-/* Button Styling */
 .button-34 {
   background: #5E5DF0;
   border-radius: 999px;
@@ -100,7 +99,24 @@
   width: fit-content;
   word-break: break-word;
   border: 0;
+  transition: all 0.3s ease-in-out;
 }
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .button-34 {
+    font-size: 14px;
+    padding: 7px 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .button-34 {
+    font-size: 12px;
+    padding: 6px 14px;
+  }
+}
+
 
 .hero__right {
   @media (max-width: $desktop) {
