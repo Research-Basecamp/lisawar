@@ -34,6 +34,8 @@ While at the TRLA, I also assisted with several other teams, including the Disas
 
 I served as the Institutional Equity Officer at South Texas College (STC) where I took on a variety of roles. As the Title IX Coordinator and the 504/ADA Coordinator, I handled complaints of discrimination from students, faculty, administrators, and contractors, from all areas of the school. I was responsible for drafting, publishing, and implementing the newly published Title IX regulations issued just months after the COVID-19 pandemic lockdown in 2020. Due to the pandemic, I briefly advised STC administrators on the Families First Coronavirus Response Act (FFCRA) and the Coronavirus Aid, Relief, and Economic Security Act (CARES Act), assisted with furloughs and layoffs, and worked remote or in-person as needed.
 
+![Lisa Guerra](/images/IMG_7822.jpg)
+
 ## Legal Experience in New York City
 
 From 2012-2014, I lived in worked in Manhattan as an agency attorney for the Labor Bureau of the New York City Comptroller’s Office. I prosecuted wage claims for work performed on NYC construction and service contracts. I was involved with all aspects of litigation, including damages assessments, client/witness interviews, asset research, discovery, settlement negotiations, pre-trial motion practice, trial prep, and bench trials before the NYC Office of Administrative Trials and Hearings (OATH). I also reviewed construction contracts, service contracts, real estate purchase lease agreements, real estate financing agreements, and collective bargaining agreements as part of my work.
@@ -47,8 +49,6 @@ From 2009-2012, I worked at the DC Employment Justice Center (EJC) as both a Wag
 As a policy attorney, I worked with worker rights organizations, national and local unions, and District Council members, to pass the Workplace Fraud Amendment Act of 2012 (which prohibits misclassification of construction workers as independent contractors) and the Wage Theft Prevention Act of 2014 (which added variety of protections to the existing statute for victims of wage theft).
 
 As a litigation attorney, I was responsible for all aspects of litigation of wage-hour cases in federal and state courts, including collective and class actions, at times with private co-counsel. I also assisted with the management and operation of EJC’s weekly Workers’ Rights Law Clinic which served workers from DC, Maryland, and Virginia.
-
-![Lisa Guerra](/images/IMG_7822.jpg)
 
 ## Legal Experience at Large Legal Firms
 
