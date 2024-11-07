@@ -13,9 +13,10 @@ My interest in helping clients resolve matters productively through mediation em
 
 You can learn more about my approach to mediation, my diverse legal experience, and my commitment to community service on the following pages below:
 
-- [Link to mediation page](/mediation/)
-- [Link to legal experience page](/experience/)
-- [Link to community service page](/experience/empowering-immigrant-communities/)
+- [Link to mediation page](/mediation/).
+- [Link to legal experience page](/experience/).
+- [Link to community service page](/experience/empowering-immigrant-communities/).
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/lisawarlaw/).
 
 <!-- <div class="gallery-box">
   <div class="gallery">
