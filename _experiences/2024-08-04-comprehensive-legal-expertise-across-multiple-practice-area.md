@@ -48,6 +48,8 @@ As a policy attorney, I worked with worker rights organizations, national and lo
 
 As a litigation attorney, I was responsible for all aspects of litigation of wage-hour cases in federal and state courts, including collective and class actions, at times with private co-counsel. I also assisted with the management and operation of EJC’s weekly Workers’ Rights Law Clinic which served workers from DC, Maryland, and Virginia.
 
+![Lisa Guerra](/images/IMG_7822.jpg)
+
 ## Legal Experience at Large Legal Firms
 
 From 2007-2009, I worked as document review attorney at a variety of “big law” firms including: Williams & Connolly; Arnold & Porter; Willkie, Farr & Gallagher; Hogan & Hartson; and Wiley, Rein & Fielding. I conducted English and Spanish review of documents in response to government agency subpoenas or as part of corporate self-audits, including reviews for privilege and confidentiality. During one highly-confidential project in 2009, I was the only attorney reviewing documents related to the 2008 financial crisis.
