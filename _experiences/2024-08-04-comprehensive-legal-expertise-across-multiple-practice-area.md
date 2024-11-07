@@ -1,6 +1,6 @@
 ---
 title: Comprehensive Legal Expertise Across Multiple Practice Areas
-description: Lisa’s nearly two decades of legal experience includes work in civil litigation, business and employment law, immigration, and civil rights. She has practiced in Texas, New York, and Washington, D.C.
+description: Lisa’s nearly two decades of legal experience includes work in civil litigation, business and employment law, immigration, and civil rights. She has practiced in Texas, New York, Washington state, and Washington, D.C.
 date: 2024-08-05 08:01:35 +0300
 label: Legal Services
 image: /images/CDMX Estadio 4.JPG
