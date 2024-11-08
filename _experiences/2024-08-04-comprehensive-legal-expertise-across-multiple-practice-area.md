@@ -3,7 +3,7 @@ title: Comprehensive Legal Expertise Across Multiple Practice Areas
 description: Lisa’s nearly two decades of legal experience includes work in civil litigation, business and employment law, immigration, and civil rights. She has practiced in Texas, New York, Washington state, and Washington, D.C.
 date: 2024-08-05 08:01:35 +0300
 label:
-image: /images/lisawarmapv2.png
+image: /images/legalimage.jpg
 ---
 
 I currently run a solo practice, the Law Office of Lisa Y Guerra, where I handle all aspects of litigation, including trials, in the following areas:
