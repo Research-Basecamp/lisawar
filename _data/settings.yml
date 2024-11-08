@@ -21,18 +21,18 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Experience"
-      url: "/experience/"
-    - title: "About Me"
-      url: "/about/"
     - title: "Mediation Services"
       url: "/experience/mediation-service-that-make-a-difference"
+    - title: "Experience"
+      url: "/experience/comprehensive-legal-expertise-across-multiple-practice-area"
+    - title: "About Me"
+      url: "/about/"
 
 # Call to action button
 cta_button:
   enable: true
   cta_button_link: "/contact/"
-  cta_button_text: Free Consulation
+  cta_button_text: Contact Me
 
 #-------------------------------
 # Hero Settings
